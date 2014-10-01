@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Sprites
+#
+
+projectname: Sprites
+vendorid: com.sandoval
+mainmodule: com.sandoval.sprites
